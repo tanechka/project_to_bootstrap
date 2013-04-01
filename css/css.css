@@ -1,0 +1,79 @@
+.content
+{
+  width: 940px;
+}
+.header
+{
+  padding: 35px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.header h1
+{
+  display: inline;
+  margin-left: 170px;
+  margin-bottom: 0;
+  font-size: 60px;
+  line-height: 1;
+  letter-spacing: -1px;
+  color: inherit;
+}
+.buttonHeader
+{
+  display: inline;
+  float: right;
+}
+.reg .btn:first-child 
+{
+  text-align: center;
+  padding: 3px 20px 3px 20px;
+}
+.reg .or
+{
+  display: block;
+  text-align: center;
+}
+.btnReg
+{
+  text-align: center;
+}
+.well 
+{
+  width: 300px;
+  background-color: white!important;
+  height: 140px;
+  margin: 0 auto;
+}
+ul.user 
+{
+  list-style-type: none;
+  margin-left: 0px;
+  color: #08C;
+}
+.caption
+{
+  text-align: center;
+}
+ul.user li input 
+{
+width: 200px;
+float: right;
+}
+ul.user span
+{
+  display: inline;
+  float: left;
+  line-height: 36px;
+} 
+ul.user li:nth-child(4)
+{
+  text-align: center;
+}
+.hr-small
+{
+  margin: 0px 40px 20px 40px;
+}
